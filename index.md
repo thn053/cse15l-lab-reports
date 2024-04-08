@@ -2,6 +2,6 @@
 
 ## Jade Nguyen 
 
-![Image]()
+![Image](Image.jpg)
 
 
