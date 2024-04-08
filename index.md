@@ -1,6 +1,6 @@
 # Hello, CSE15L!
 
-## Jade Nguyen 
+My name is Jade. Nice to meet you!
 
 ![Image](hi.png)
 
