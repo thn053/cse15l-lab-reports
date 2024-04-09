@@ -15,14 +15,14 @@ oceenguyen@Ocees-MacBook-Air lecture1 % pwd
 }
 ```
 ## Example 1: Using cd with No Arguments "cd"
--Current Directory: The current directory is the home directory /Users/oceenguyen.
--Output Explanation: When you use cd without any arguments, it takes you to your home directory.
+1) Current Directory: The current directory is the home directory /Users/oceenguyen.
+2) Output Explanation: When you use cd without any arguments, it takes you to your home directory.
 ## Example 2: Using cd with a Directory Path "cd lecture1"
--Current Directory: Now we are in /Users/oceenguyen/lecture1.
--Output Explanation: This command changes the current directory to the lecture1 folder within the home directory.
+1) Current Directory: Now we are in /Users/oceenguyen/lecture1.
+2) Output Explanation: This command changes the current directory to the lecture1 folder within the home directory.
 ## Example 3: Using cd with an Invalid Path "cd non_existent_folder"
--Current Directory: We are still in /Users/oceenguyen/lecture1.
--Output Explanation: An error occurs because non_existent_folder does not exist.
+1) Current Directory: We are still in /Users/oceenguyen/lecture1.
+2) Output Explanation: An error occurs because non_existent_folder does not exist.
 ## 2) ls command
 ```
 {
@@ -41,14 +41,14 @@ oceenguyen@Ocees-MacBook-Air lecture1 % pwd
 }
 ```
 ## Example 4: Using ls with No Arguments "ls"
--Current Directory: We are still in /Users/oceenguyen/lecture1.
--Output Explanation: Lists files and folders in the current directory.
+1) Current Directory: We are still in /Users/oceenguyen/lecture1.
+2) Output Explanation: Lists files and folders in the current directory.
 ## Example 5: Using ls with a Directory Path "ls lecture1"
--Current Directory: We are still in /Users/oceenguyen/lecture1.
--Output Explanation: Lists files and folders in the lecture1 directory.
+1) Current Directory: We are still in /Users/oceenguyen/lecture1.
+2) Output Explanation: Lists files and folders in the lecture1 directory.
 ## Example 6: Using ls with an Invalid Path "ls Hello.class "
--Current Directory: We are still in /Users/oceenguyen/lecture1.
--Output Explanation: Lists files and folders in the Hello.class directory.
+1) Current Directory: We are still in /Users/oceenguyen/lecture1.
+2) Output Explanation: Lists files and folders in the Hello.class directory.
 ## 3) cat command
 ```
 {
@@ -98,14 +98,14 @@ Hello.java!')*??*	+,)9*2??	??L?!?*
 }
 ```
 ## Example 7: Using cat with a File "cat Hello.java"
--Current Directory: We are still in /Users/oceenguyen/lecture1.
--Output Explanation: Displays the content of Hello.java.
+1) Current Directory: We are still in /Users/oceenguyen/lecture1.
+2) Output Explanation: Displays the content of Hello.java.
 ## Example 8: Example 8: Using cat with an Invalid File "cat lecture1"
--Current Directory: We are still in /Users/oceenguyen/lecture1.
--Output Explanation: An error occurs because lecture1: Is a directory not a file.
+1) Current Directory: We are still in /Users/oceenguyen/lecture1.
+2) Output Explanation: An error occurs because lecture1: Is a directory not a file.
 ## Using cat with Multiple Files "cat Hello.java Hello.class"
--Current Directory: We are still in /Users/oceenguyen/lecture1.
--Output Explaination: Concatenates and displays the content of Hello.java followed by Hello.class.
+1) Current Directory: We are still in /Users/oceenguyen/lecture1.
+2) Output Explaination: Concatenates and displays the content of Hello.java followed by Hello.class.
 
 
 
